@@ -1,2 +1,2 @@
-# LAPILU-CrossAssembler
-Cross assembler written in java for LAPILU Microprocessor
+# LAPILU Cross Assembler
+Cross assembler written in java for LAPILU Soft-core Microprocessor
