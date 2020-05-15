@@ -1,2 +1,2 @@
 # LAPILU Cross Assembler
-Cross assembler written in java for LAPILU Soft-core Microprocessor
+Cross assembler written in java for <a href='https://github.com/millocorona/LAPILU-SimpleSoftCoreMicroProcessorUnit'>LAPILU Soft-core Microprocessor </a>
